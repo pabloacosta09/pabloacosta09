@@ -60,7 +60,7 @@
 <img src="https://img.shields.io/badge/Hardware-Componentes-555?style=for-the-badge">  
 <img src="https://img.shields.io/badge/Software-Desarrollo-0A0A0A?style=for-the-badge">
 
-> Si querés, reemplazo los últimos badges genéricos por imágenes / logos específicos — pero ya los dejé para que muestren todas las áreas que pediste.
+
 
 ---
 
